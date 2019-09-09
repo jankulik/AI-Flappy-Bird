@@ -9,3 +9,4 @@ Perceptron-based AI that learns to play Flappy Bird.
 [Here](https://steemit.com/utopian-io/@neavvy/teaching-ai-to-play-flappy-bird-the-concept-of-perceptron-or-neural-networks-1) you can find a machine learning tutorial with the examples from this repository.
 
 **Note:** this application is intended for an Android device with the 1920x1080 screen resolution.
+
